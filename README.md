@@ -1,5 +1,7 @@
 # warren_census
 
+## Contrasting 10 years of Warren, MI - its county, its state - using US census data
+
 ### About
 A comparison of Warren public US Census survey data compared to Macomb County and to Michigan across 10 years (2011 and 2021). Softwares utilized: Google Sheets, SQL/BigQuery, Tableau.
 
